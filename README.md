@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Profile](https://gzn00417.github.io/)
+
 <!--
 **gzn00417/gzn00417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
