@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gzn00417.gzn00417.README)
+
+- 🔭 I’m an undergraduate of Harbin Institute of Technology
+- 🌱 I’m an intern at MSRA & HIT-DBLab
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gzn00417&show_icons=true">
+
 [Profile](https://gzn00417.github.io/)
 
 <!--
