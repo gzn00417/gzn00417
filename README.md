@@ -3,9 +3,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gzn00417.gzn00417.README)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gzn00417&show_icons=true">
 
-- 🔭 I’m an undergraduate of Harbin Institute of Technology
-- 🌱 I’m an intern at MSRA & HIT-DBLab
-- ⚡ Here is my [Profile](https://gzn00417.github.io/)
+- ⚡ Here is my [Homepage](https://gzn00417.github.io/), [Blog](https://blog.csdn.net/gzn00417) and [LinkedIn](https://www.linkedin.com/in/%E8%8C%81%E5%AE%81-%E9%83%AD-08949b194/)
+- 🔭 I’m an undergraduate of Harbin Institute of Technology, majoring in Software Engineering, at Computing Faculty.
+- 🌱 I was an intern at Microsoft Research Asia, supervised by Shizhao Sun.
+- 👯 I'm currently a research assistant at HIT-DBLab supervised by Hongzhi Wang.
 
 
 
