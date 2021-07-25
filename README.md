@@ -13,7 +13,8 @@
 
 ### Resources
 
-[gzn00417/HIT-CS-Courses: 哈工大计算学部课程相关学习链接集合 (github.com)](https://github.com/gzn00417/HIT-CS-Courses)
+- [gzn00417/HIT-CS-Courses: 哈工大计算学部课程相关学习链接集合 (github.com)](https://github.com/gzn00417/HIT-CS-Courses)
+- [gzn00417/HIT-CS-Labs: 哈尔滨工业大学计算学部实验室介绍 (github.com)](https://github.com/gzn00417/HIT-CS-Labs)
 
 
 <!--
