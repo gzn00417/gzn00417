@@ -6,15 +6,16 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzn00417&layout=compact">
 
-- ⚡ Here is my ***[Homepage](https://gzn00417.github.io/)***, [Blog](https://blog.csdn.net/gzn00417) and [LinkedIn](https://www.linkedin.com/in/zhuoning-guo-08949b194).
-- 🔭 I’m an 3rd year undergraduate of Harbin Institute of Technology, majoring in Software Engineering, at Computing Faculty.
-- 🌱 I was a research intern at Microsoft Research Asia, supervised by _Shizhao Sun_.
+- ⚡ Here is my <u>***[Homepage](https://gzn00417.github.io/)***</u>, [Blog](https://blog.csdn.net/gzn00417) and [LinkedIn](https://www.linkedin.com/in/zhuoning-guo-08949b194).
+- 🔭 I’m an 4th year undergraduate of Harbin Institute of Technology, majoring in Software Engineering, at Computing Faculty.
+- 💻 I used to be OIer during middle school career since 2012.
+- 🌱 I was a research intern at DKI Group, Microsoft Research Asia supervised by _Shizhao Sun_.
 - 👯 I'm currently a research assistant at HIT-DBLab supervised by _Hongzhi Wang_.
 
 ### Resources
 
-- [gzn00417/HIT-CS-Courses: 哈工大计算学部课程相关学习链接集合 (github.com)](https://github.com/gzn00417/HIT-CS-Courses)
-- [gzn00417/HIT-CS-Labs: 哈尔滨工业大学计算学部实验室介绍 (github.com)](https://github.com/gzn00417/HIT-CS-Labs)
+- [哈工大计算学部课程相关学习链接集合](https://github.com/gzn00417/HIT-CS-Courses)
+- [哈尔滨工业大学计算学部实验室介绍](https://github.com/gzn00417/HIT-CS-Labs)
 
 
 <!--
