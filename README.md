@@ -6,13 +6,13 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzn00417&layout=compact">
 
-> More information please visit my **<u>[Homepage](https://gzn00417.github.io/)</u>**.
+> 💬 More information please visit my <font size=5>**<u>[Homepage](https://gzn00417.github.io/)</u>**</font>.
 
-- ⚡ I’m an 4th year undergraduate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Software Engineering, at Computing Faculty.
-- 💻 I used to be OIer during middle school career since 2012.
-- 🌱 I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by _Shizhao Sun_, and a research assistant at [HIT-DBLab](http://cs.hit.edu.cn/2018/1126/c11289a218419/page.htm) supervised by _Hongzhi Wang_.
+- ⚡ I’m a 4th year undergraduate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Software Engineering, at [Computing Faculty](http://cs.hit.edu.cn/).
+- 💻 I used to be OIer since 2012, at [Quanzhou No.1 High School](http://www.qz1z.com/) and [Fuzhou No.1 High School](http://www.fzyz.net/).
+- 🌱 I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://cs.hit.edu.cn/2018/1126/c11289a218419/page.htm) supervised by [Hongzhi Wang](http://homepage.hit.edu.cn/wang).
 
-> Feel free to contact me by [Email](gzn00417@outlook.com), [LinkedIn](https://www.linkedin.com/in/zhuoning-guo-08949b194) or WeChat/QQ.
+> 📫 Feel free to contact me by [Email](gzn00417@outlook.com), [LinkedIn](https://www.linkedin.com/in/zhuoning-guo-08949b194) or WeChat/QQ.
 
 ### Resources
 
