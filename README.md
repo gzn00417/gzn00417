@@ -6,11 +6,11 @@
 
 > 💬 More information please visit my <font size=5>**<u>[Homepage](https://gzn00417.github.io/)</u>**</font>.
 
-- 🔭 I'm currently a $2^{nd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu](https://raymondhliu.github.io/) and [Prof. Qiang Yang](https://cse.hkust.edu.hk/~qyang/).
+- 🔭 I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn/).
 - ⚡ I graduated from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/), in June 2022.
 - 💻 I used to be OIer since 2012, at [Quanzhou No.1 High School](http://www.qz1z.com/) and [Fuzhou No.1 High School](http://www.fzyz.net/).
 
-> 📫 Feel free to contact me by [Email](gzn00417@outlook.com), [LinkedIn](https://www.linkedin.com/in/zhuoning-guo-08949b194) or WeChat/QQ.
+> 📫 Feel free to contact me by [Email](zhuoning.guo@gmail.com) or WeChat/QQ.
 
 ### Resources
 
@@ -20,7 +20,7 @@
 
 <a href="https://info.flagcounter.com/npwj"><img src="https://s11.flagcounter.com/map/npwj/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Free counters!" border="0"></a>
 
-> This page is update at July 9, 2024
+> This page is update at Nov. 18, 2024
 
 <!--
 **gzn00417/gzn00417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
